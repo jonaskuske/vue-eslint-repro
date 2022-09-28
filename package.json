@@ -1,0 +1,16 @@
+{
+  "name": "vue-eslint-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-plugin-vue": "^9.5.1"
+  }
+}
